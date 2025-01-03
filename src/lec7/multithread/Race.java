@@ -1,4 +1,4 @@
-package lec7;
+package lec7.multithread;
 
 import java.util.ArrayList;
 import java.util.Arrays;

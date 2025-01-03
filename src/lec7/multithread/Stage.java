@@ -1,4 +1,4 @@
-package lec7;
+package lec7.multithread;
 
 public abstract class Stage {
     protected int length;

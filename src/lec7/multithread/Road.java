@@ -1,4 +1,4 @@
-package lec7;
+package lec7.multithread;
 
 public class Road extends Stage {
     public Road ( int length) {
